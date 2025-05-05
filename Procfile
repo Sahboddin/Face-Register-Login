@@ -1,1 +1,1 @@
-web: gunicorn flogin.wsgi
+web: gunicorn flogin.wsgi:application
